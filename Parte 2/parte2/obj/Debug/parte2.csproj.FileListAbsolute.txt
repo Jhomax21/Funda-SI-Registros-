@@ -1,0 +1,20 @@
+C:\Users\USER\source\repos\parte2\parte2\bin\Debug\parte2.exe.config
+C:\Users\USER\source\repos\parte2\parte2\bin\Debug\parte2.exe
+C:\Users\USER\source\repos\parte2\parte2\bin\Debug\parte2.pdb
+C:\Users\USER\source\repos\parte2\parte2\obj\Debug\parte2.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\parte2\parte2\obj\Debug\parte2.Form1.resources
+C:\Users\USER\source\repos\parte2\parte2\obj\Debug\parte2.Properties.Resources.resources
+C:\Users\USER\source\repos\parte2\parte2\obj\Debug\parte2.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\parte2\parte2\obj\Debug\parte2.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\parte2\parte2\obj\Debug\parte2.exe
+C:\Users\USER\source\repos\parte2\parte2\obj\Debug\parte2.pdb
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\bin\Debug\parte2.exe.config
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\bin\Debug\parte2.exe
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\bin\Debug\parte2.pdb
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\obj\Debug\parte2.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\obj\Debug\parte2.Form1.resources
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\obj\Debug\parte2.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\obj\Debug\parte2.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\obj\Debug\parte2.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\obj\Debug\parte2.exe
+C:\Users\Usuario\OneDrive\Documentos\Laptop\Parte 2\parte2\obj\Debug\parte2.pdb
