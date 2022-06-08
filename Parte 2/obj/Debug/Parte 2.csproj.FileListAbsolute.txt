@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\bin\Debug\Parte 2.exe.config
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\bin\Debug\Parte 2.exe
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\bin\Debug\Parte 2.pdb
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\obj\Debug\Parte 2.csproj.AssemblyReference.cache
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\obj\Debug\Parte_2.Form1.resources
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\obj\Debug\Parte_2.Properties.Resources.resources
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\obj\Debug\Parte 2.csproj.GenerateResource.cache
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\obj\Debug\Parte 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\obj\Debug\Parte 2.exe
+C:\Users\HP\Documents\FUNDAMENTOS DE SISTEMA DE INFORMACIÓN\Parte 2\obj\Debug\Parte 2.pdb
