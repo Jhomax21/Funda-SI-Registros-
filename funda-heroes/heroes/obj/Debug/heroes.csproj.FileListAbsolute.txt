@@ -1,0 +1,30 @@
+C:\Users\Juruma\source\repos\heroes\heroes\bin\Debug\heroes.exe.config
+C:\Users\Juruma\source\repos\heroes\heroes\bin\Debug\heroes.exe
+C:\Users\Juruma\source\repos\heroes\heroes\bin\Debug\heroes.pdb
+C:\Users\Juruma\source\repos\heroes\heroes\obj\Debug\heroes.csprojAssemblyReference.cache
+C:\Users\Juruma\source\repos\heroes\heroes\obj\Debug\heroes.Form1.resources
+C:\Users\Juruma\source\repos\heroes\heroes\obj\Debug\heroes.Properties.Resources.resources
+C:\Users\Juruma\source\repos\heroes\heroes\obj\Debug\heroes.csproj.GenerateResource.cache
+C:\Users\Juruma\source\repos\heroes\heroes\obj\Debug\heroes.csproj.CoreCompileInputs.cache
+C:\Users\Juruma\source\repos\heroes\heroes\obj\Debug\heroes.exe
+C:\Users\Juruma\source\repos\heroes\heroes\obj\Debug\heroes.pdb
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\bin\Debug\heroes.exe.config
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\bin\Debug\heroes.exe
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\bin\Debug\heroes.pdb
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\obj\Debug\heroes.csprojAssemblyReference.cache
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\obj\Debug\heroes.Form1.resources
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\obj\Debug\heroes.Properties.Resources.resources
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\obj\Debug\heroes.csproj.GenerateResource.cache
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\obj\Debug\heroes.csproj.CoreCompileInputs.cache
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\obj\Debug\heroes.exe
+C:\Users\roga\Documents\ejer heroes\funda-heroes\heroes\obj\Debug\heroes.pdb
+C:\Users\Usuario\Downloads\funda-heroes\heroes\bin\Debug\heroes.exe.config
+C:\Users\Usuario\Downloads\funda-heroes\heroes\bin\Debug\heroes.exe
+C:\Users\Usuario\Downloads\funda-heroes\heroes\bin\Debug\heroes.pdb
+C:\Users\Usuario\Downloads\funda-heroes\heroes\obj\Debug\heroes.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\funda-heroes\heroes\obj\Debug\heroes.Form1.resources
+C:\Users\Usuario\Downloads\funda-heroes\heroes\obj\Debug\heroes.Properties.Resources.resources
+C:\Users\Usuario\Downloads\funda-heroes\heroes\obj\Debug\heroes.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\funda-heroes\heroes\obj\Debug\heroes.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\funda-heroes\heroes\obj\Debug\heroes.exe
+C:\Users\Usuario\Downloads\funda-heroes\heroes\obj\Debug\heroes.pdb
