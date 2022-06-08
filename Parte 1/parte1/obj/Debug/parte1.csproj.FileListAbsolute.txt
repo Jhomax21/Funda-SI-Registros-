@@ -1,0 +1,20 @@
+C:\Users\USER\source\repos\parte1\parte1\bin\Debug\parte1.exe.config
+C:\Users\USER\source\repos\parte1\parte1\bin\Debug\parte1.exe
+C:\Users\USER\source\repos\parte1\parte1\bin\Debug\parte1.pdb
+C:\Users\USER\source\repos\parte1\parte1\obj\Debug\parte1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\parte1\parte1\obj\Debug\parte1.Form1.resources
+C:\Users\USER\source\repos\parte1\parte1\obj\Debug\parte1.Properties.Resources.resources
+C:\Users\USER\source\repos\parte1\parte1\obj\Debug\parte1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\parte1\parte1\obj\Debug\parte1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\parte1\parte1\obj\Debug\parte1.exe
+C:\Users\USER\source\repos\parte1\parte1\obj\Debug\parte1.pdb
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\bin\Debug\parte1.exe.config
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\bin\Debug\parte1.exe
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\bin\Debug\parte1.pdb
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\obj\Debug\parte1.csproj.AssemblyReference.cache
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\obj\Debug\parte1.Form1.resources
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\obj\Debug\parte1.Properties.Resources.resources
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\obj\Debug\parte1.csproj.GenerateResource.cache
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\obj\Debug\parte1.csproj.CoreCompileInputs.cache
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\obj\Debug\parte1.exe
+E:\Laptop\U201911702_LB1_4\Parte 1\parte1\obj\Debug\parte1.pdb
