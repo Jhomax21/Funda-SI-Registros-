@@ -1,0 +1,10 @@
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\obj\Debug\Practica Lab.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\obj\Debug\Practica_Lab.Form1.resources
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\obj\Debug\Practica_Lab.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\obj\Debug\Practica Lab.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\obj\Debug\Practica Lab.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\bin\Debug\Practica Lab.exe.config
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\bin\Debug\Practica Lab.exe
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\bin\Debug\Practica Lab.pdb
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\obj\Debug\Practica Lab.exe
+C:\Users\Usuario\source\repos\Practica Lab\Practica Lab\obj\Debug\Practica Lab.pdb
